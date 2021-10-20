@@ -1,4 +1,4 @@
-# N-Body-Simulator
+# Environmental Imaging simulator-N- Body- model
 <hr>
 N-body simulation project in works with Celestia <br>
 <ul>
